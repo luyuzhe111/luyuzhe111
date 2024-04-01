@@ -1,1 +1,2 @@
-- 👋 Hi, I’m Bryan Lu. 
+- :wave: Hi, I’m Bryan, currently an applied scientist at AWS Bedrock, working on inference optimization for LLMs.
+- :books: I recently graduated from my master's program in machine learning at CMU. I did my undergrad at Vanderbilt, majoring in maths and computer science. 
