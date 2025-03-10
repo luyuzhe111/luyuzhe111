@@ -1,2 +1,4 @@
-- :wave: Hi, I’m Bryan, currently an Applied Scientist at AWS Bedrock, working on inference optimization for LLMs.
-- :books: Alumni [@mldcmu](https://github.com/mldcmu), [@vanderbiltu](https://github.com/vanderbiltu).
+## Hello, I’m Bryan
+
+- :computer: currently an applied scientist at [@aws](https://github.com/aws).
+- :books: alumni [@mldcmu](https://github.com/mldcmu), [@vanderbiltu](https://github.com/vanderbiltu).
